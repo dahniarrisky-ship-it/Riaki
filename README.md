@@ -1,0 +1,2 @@
+# Riaki
+name: riskimantacx description: Aplikasi RiskiMantaCx publish_to: 'none' version: 1.0.0+1  environment:   sdk: '>=3.3.0 &lt;4.0.0'  dependencies:   flutter:     sdk: flutter  flutter:   uses-material-design: true
